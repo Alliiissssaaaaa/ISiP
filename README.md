@@ -1,4 +1,5 @@
-# ISiPэхо "# ISiP" >> README.md 
+# ISiPэхо 
+"# ISiP" >> README.md 
 git init
 git add README.md 
 git commit -m "hto prousxodit"
